@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "My Second Post",
+      "datetime": "Jan 12, 2023 14:46:53 PM",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "id": 3,
+      "title": "My Third Post",
+      "datetime": "January 13, 2023 11:41:01 AM",
+      "body": "Third post\n"
+    },
+    {
+      "id": 4,
+      "title": "My Fourth",
+      "datetime": "January 13, 2023 11:37:51 AM",
+      "body": "Four...."
+    },
+    {
+      "id": 5,
+      "title": "Test post Jan 16 2023",
+      "datetime": "January 16, 2023 10:35:41 AM",
+      "body": "This is a test post written on 16 Jan 2023."
+    },
+    {
+      "id": 6,
+      "title": "sixth post",
+      "datetime": "January 16, 2023 2:16:13 PM",
+      "body": "this is sixth post\n"
+    },
+    {
+      "id": 7,
+      "title": "7th post",
+      "datetime": "January 16, 2023 5:15:20 PM",
+      "body": "this is 7th test post and we are using redux."
+    }
+  ]
+}
